@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Everything.
+Everything was difficult.
 
 ## License
 
